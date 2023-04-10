@@ -1,7 +1,7 @@
 ### Hi there 👋
 Computer Science student at Minnesota State University, Mankato
 
-Pronouns: She/Her
+She/Her
 
 <!--
 **PidgeonBrained/PidgeonBrained** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
